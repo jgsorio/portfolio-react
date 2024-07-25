@@ -14,7 +14,7 @@ export function Hero() {
             <div className="h-1 w-12 rounded-full bg-green-400"></div>
             Desenvolvedor FullStack
           </h2>
-          <p className="text-gray-600 my-6 text-center md:text-left">
+          <p className="text-white my-6 text-center md:text-left">
             Sou um desenvolvedor fullstack apaixonado por criar soluções digitais completas que combinam uma arquitetura robusta no back-end com interfaces intuitivas no front-end.
           </p>
           <div className="flex items-center gap-2 justify-center md:justify-start">
