@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .button {
+    @apply cursor-pointer rounded-md bg-white font-headline font-semibold text-sm py-2 px-2 transition
+  }
+}
